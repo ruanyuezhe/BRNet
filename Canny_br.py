@@ -116,8 +116,3 @@ for ind, dir_ in enumerate(dirs):
     mious.append(miou)
     mrecall.append(m_recall)
     mf1.append(F1_score)
-
-# print(1-(((1-np.mean(means))*5320*7968)/(512*400*3*15)))
-# print(1-(((1-np.mean(miou))*5320*7968)/(512*400*3*15)))
-# print(1-(((1-np.mean(m_recall))*5320*7968)/(512*400*3*15)))
-# print(1-(((1-np.mean(F1_score))*5320*7968)/(512*400*3*15)))
