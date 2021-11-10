@@ -9,8 +9,8 @@ import torch
 import numpy as np
 import os
 import cv2
-# 自定义类
-from MY_UNet.unet import UNet, UNet1, UNet_4l
+
+from BRNet_Architecture import UNet, UNet1, UNet_4l
 
 import PIL.Image as Image
 import matplotlib.pyplot as plt
