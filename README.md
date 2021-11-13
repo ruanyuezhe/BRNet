@@ -9,3 +9,8 @@ The **b**ackground **r**emoval **net**work (BRNet) is proposed to remove the bac
 [conda install OpenCV](https://opencv.org/)  
 ## Contrast Method
 Canny edge detection (Canny) method was applied for the comparison of the performance on background removal. The implementation of Canny method is shown in [Contrast Method](https://github.com/ruanyuezhe/BRNet/blob/main/Contrast%20Method/Canny_br.py)
+## Dataset
+The images of palm-leaf manuscripts would not be available for its status being one of national first-class cultural relics. Moreover, we have already signed a confidentiality agreement that we have no rights to make these data open.  
+## Usage
+The BRNet model is public at [Main](https://github.com/ruanyuezhe/BRNet/tree/main/Main), every user can download and use it.  
+Any of palm-leaf manuscript images with a black background can be fed into the BRNet.
