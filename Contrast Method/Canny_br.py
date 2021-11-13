@@ -25,7 +25,7 @@ Canny Edge Detection is a popular edge detection algorithm. It was developed by 
   connected to "sure-edge" pixels, they are considered to be part of edges. 
 =====================================================================================================
 
-@author: BMZN109K32G10GPU-03
+@author: Ruanyuezhe
 """
 
 import cv2
