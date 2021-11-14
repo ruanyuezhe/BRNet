@@ -12,5 +12,5 @@ Canny edge detection (Canny) method was applied for the comparison of the perfor
 ## Dataset
 The images of palm-leaf manuscripts would not be available for its status being one of national first-class cultural relics. Moreover, we have already signed a confidentiality agreement that we have no rights to make these data open.  
 ## Usage
-The BRNet model is public at [Main](https://github.com/ruanyuezhe/BRNet), every user can download and use it.  
+The BRNet model is public at [homepage](https://github.com/ruanyuezhe/BRNet), every user can download and use it.  
 Any of palm-leaf manuscript images with a black background can be fed into the BRNet.
