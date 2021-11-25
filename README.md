@@ -12,5 +12,5 @@ The **b**ackground **r**emoval **net**work (BRNet) is proposed to remove the bac
 The images of palm-leaf manuscripts would not be available for its status being one of national first-class cultural relics. Moreover, we have already signed a confidentiality agreement that we have no rights to make these data open.  
 ## Usage
 The BRNet model is public at [homepage](https://github.com/ruanyuezhe/BRNet), every user can download and use it.
-A test ipython notebook at [test file](https://github.com/ruanyuezhe/BRNet/test.ipynb) is available.
+A test ipython notebook at [test file](https://github.com/ruanyuezhe/BRNet/blob/main/test.ipynb) is available.
 Any of palm-leaf manuscript images with a black background can be fed into the BRNet.
